@@ -1,5 +1,7 @@
 # Art ASCII Generator Image Python
 
+A tiny tool for generating **ART ASCII** from images powered by **Python pywhatkit**.
+
 ## Using
 
 Put your image path in the source and run:
