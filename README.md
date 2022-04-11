@@ -1,5 +1,13 @@
 # Art ASCII Generator Image Python
 
+## Using
+
+Put your image path in the source and run:
+
+```sh
+python converter.py
+```
+
 ## Testing
 
 | Input | Output |
